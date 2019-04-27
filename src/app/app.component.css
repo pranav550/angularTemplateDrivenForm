@@ -1,0 +1,11 @@
+input.ng-invalid.ng-touched {
+    border-color: red
+}
+
+.help {
+    color: red;
+    background-color: pink;
+    padding: 10px;
+    margin-top: 20x;
+    position: relative;
+}
